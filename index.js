@@ -8,7 +8,7 @@ const app = express();
 const port = 9000;
 
 app.use(cors({
-  origin:'http://localhost:5173'
+  origin:'https://foodfe.netlify.app'
 }));
 app.use(bodyParser.json());
 
@@ -455,6 +455,7 @@ const foodData = [
 
 
 ];
+
 
 const pizza_list=foodData.filter(food => food.type.includes('pizza'))
 const burger_list=foodData.filter(food => food.type.includes('burger'))
