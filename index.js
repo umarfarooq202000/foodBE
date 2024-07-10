@@ -20,7 +20,7 @@ const foodData = [
     name: "Chicken masala Biryani",
     price: 220,
     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
-    image: " server/images/Chicken_masala_Biryani.jpg",
+    image: "https://i.pinimg.com/236x/8a/28/7d/8a287d3cb3dd22c07fead0c9f51c8eeb.jpg",
     type: " Relevant meat biryani indian ratings 4+ ",
     ratings: "4.5",
     offer: "20%"
@@ -30,7 +30,7 @@ const foodData = [
     name: "Chicken Biryani",
     price: 200,
     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
-    image: " server/images/chickenBiryani.jpg",
+    image: "https://i.pinimg.com/236x/8a/28/7d/8a287d3cb3dd22c07fead0c9f51c8eeb.jpg",
     type: " Relevant  meat biryani indian",
     ratings: "4.0"
   },
@@ -39,7 +39,7 @@ const foodData = [
     name: "Mutton masala Biryani",
     price: 200,
     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
-    image: " server/images/Mutton_masala_Biryani.jpg",
+    image: "https://i.pinimg.com/236x/8d/d3/b5/8dd3b54204794c8a9920028f27c8e822.jpg",
     type: " Relevant  meat biryani indian ratings 4+ ",
     ratings: "4.5",
     offer: "20%"
@@ -49,7 +49,7 @@ const foodData = [
     name: "Mutton Biryani",
     price: 250,
     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
-    image: "server/images/Mutton_Biryani.jpg",
+    image: "https://i.pinimg.com/236x/42/3d/f9/423df917178263e91dc45e3142d385a3.jpg",
     type: " Relevant  main course meat biryani indian offers",
     ratings: "4.0"
   },
@@ -58,7 +58,7 @@ const foodData = [
     name: "Biryani",
     price: 200,
     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
-    image: "server/images/Biryani.jpg",
+    image: "https://i.pinimg.com/236x/f9/46/4f/f9464f711660d57c77965ef80d98da03.jpg",
     type: " Relevant  main course meat biryani indian offers ",
     ratings: "4.0"
   },
@@ -67,7 +67,7 @@ const foodData = [
     name: "Corn pizza",
     price: 100,
     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
-    image: "server/images/corn_Pizza.jpg",
+    image: "https://i.pinimg.com/236x/d3/6e/fe/d36efe28fe4e8da319c9d9b8381e0425.jpg",
     type: " Relevant  pizza veg italian offers ratings 4+",
     ratings: "4.5 "
   },
@@ -76,7 +76,7 @@ const foodData = [
     name: "cheese corn pizza",
     price: 100,
     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
-    image: "server/images/cheese_corn_pizza.jpg",
+    image: "https://i.pinimg.com/236x/07/36/58/0736589667eabf9214006e9ce641dbfa.jpg",
     type: " Relevant  pizza veg italian offers ratings 4+",
     ratings: "4.5"
   },
@@ -85,7 +85,7 @@ const foodData = [
     name: " Cheese pizza",
     price: 100,
     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
-    image: "server/images/cheese_pizza.jpg",
+    image: "https://i.pinimg.com/236x/ae/21/31/ae21317434fb91e0228b2ebdeadcb908.jpg",
     type: " Relevant  pizza veg italian ratings 4+",
     ratings: "4.5",
     offer: "30%"
@@ -95,7 +95,7 @@ const foodData = [
     name: "FarmHouse pizza",
     price: 200,
     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
-    image: "server/images/farmhouse_pizza.jpg",
+    image: "https://i.pinimg.com/236x/52/ef/a3/52efa3a00863082813205fd5662e36e9.jpg",
     type: " Relevant  pizza veg italian ratings 4+",
     ratings: "4.5"
   },
@@ -104,7 +104,7 @@ const foodData = [
     name: "Margrete pizza",
     price: 150,
     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
-    image: "server/images/margreta_pizza.jpg",
+    image: "https://i.pinimg.com/236x/e0/3a/1c/e03a1ce909ef8a96707c14c289d8bc9d.jpg",
     type: " Relevant  pizza veg italian",
     ratings: "4.0"
   },
@@ -113,7 +113,7 @@ const foodData = [
     name: "Chicken Tikka masala",
     price: 150,
     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
-    image: "server/images/chicken_tikka_masala.jpg",
+    image: "https://i.pinimg.com/236x/5c/db/bd/5cdbbd3a5320ede8fc74a205d8044f68.jpg",
     type: " Relevant  meat pakistani",
     ratings: "3.0"
   },
@@ -122,7 +122,7 @@ const foodData = [
     name: "Grilled Chicken",
     price: 200,
     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
-    image: "server/images/grilled_chicken.jpg",
+    image: "https://i.pinimg.com/236x/52/1a/01/521a01d28f8bc09a8042ee20a0f6451c.jpg",
     type: " Relevant  meat pakistani",
     ratings: "3.0"
 
@@ -132,7 +132,7 @@ const foodData = [
     name: " Chicken Afghani",
     price: 130,
     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
-    image: "server/images/afghani_chicken.jpg",
+    image: "https://i.pinimg.com/236x/4d/80/60/4d8060aee89f76567f5333e7d09926cf.jpg",
     type: " Relevant  meat afghani offers  ratings 4+",
     ratings: "4.0 "
 
@@ -142,7 +142,7 @@ const foodData = [
     name: "Mohito",
     price: 70,
     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
-    image: "server/images/mohito.jpg",
+    image: "https://i.pinimg.com/236x/cd/f1/0b/cdf10bd45a14c646c05e75cc59390b21.jpg",
     type: " Relevant  drinks american",
     ratings: "3.0"
 
@@ -152,7 +152,7 @@ const foodData = [
     name: "virgin Mohito",
     price: 90,
     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
-    image: "server/images/virgin_mohito.jpg",
+    image: "https://i.pinimg.com/236x/9c/a4/77/9ca4775742d7da6875a485dc8cf7f79c.jpg",
     type: " Relevant  drinks american",
     ratings: "4.0"
 
@@ -162,7 +162,7 @@ const foodData = [
     name: "Nimbu Paani",
     price: 70,
     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
-    image: "server/images/nimbu_pani.jpg",
+    image: "https://i.pinimg.com/236x/3e/a0/dc/3ea0dc5c15d1e5e57b8a326b5b1dfd56.jpg",
     type: " Relevant  drinks indian",
     ratings: "3.0"
 
@@ -172,7 +172,7 @@ const foodData = [
     name: " Maharaja Burger",
     price: 100,
     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
-    image: "server/images/maharaja_burger.jpg",
+    image: "https://i.pinimg.com/236x/f7/2e/7b/f72e7bd407a6bf4b0688347c38264114.jpg",
     type: " Relevant  burger veg korean offers",
     ratings: "3.0"
 
@@ -182,7 +182,7 @@ const foodData = [
     name: "Burger",
     price: 50,
     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
-    image: "server/images/burger.jpg",
+    image: "https://i.pinimg.com/564x/22/29/0d/22290dcfd246cc18d795fe19750e6e68.jpg",
     type: " Relevant  burger veg korean",
     ratings: "4.5 ratings 4+"
 
@@ -192,7 +192,7 @@ const foodData = [
     name: "Cheese Burger",
     price: 80,
     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
-    image: "server/images/cheese_burger.jpg",
+    image: "https://i.pinimg.com/236x/a8/e4/67/a8e46738ce2fe13e83c3e3f548214405.jpg",
     type: " Relevant  burger veg korean offers ratings 4+",
     ratings: "4.5"
 
@@ -202,7 +202,7 @@ const foodData = [
     name: "Chicken Cheese Burger",
     price: 100,
     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
-    image: "server/images/chicken_cheese_burger.jpg",
+    image: "https://i.pinimg.com/236x/be/68/6d/be686dab3797e0b43cba7b663851fd2b.jpg",
     type: " Relevant  burger meat korean",
     ratings: "4.0"
 
@@ -212,7 +212,7 @@ const foodData = [
     name: "Chicken Burger",
     price: 100,
     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
-    image: "server/images/chicken_burger.jpg",
+    image: "https://i.pinimg.com/236x/41/f6/1c/41f61ca5c84f6d157d9d3b98536c7207.jpg",
     type: " Relevant  burger meat american",
     ratings: "3.0"
 
@@ -222,7 +222,7 @@ const foodData = [
     name: "Kitkat Shakes",
     price: 60,
     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
-    image: "server/images/kitkat_shake.jpg",
+    image: "https://i.pinimg.com/236x/7d/bd/51/7dbd5160ae9dc76fd87f9ebb988210bf.jpg",
     type: " Relevant  shakes chinese",
     ratings: "3.0"
 
@@ -232,7 +232,7 @@ const foodData = [
     name: "Oreo shakes",
     price: 60,
     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
-    image: "server/images/oreo_shake.jpg",
+    image: "https://i.pinimg.com/236x/58/ee/52/58ee529250709937fe63b056ad23d27f.jpg",
     type: " Relevant  shakes american offers",
     ratings: "4.0"
 
@@ -242,7 +242,7 @@ const foodData = [
     name: "HazleNut",
     price: 95,
     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
-    image: "server/images/hazlenut.jpg",
+    image: "https://i.pinimg.com/236x/1a/24/c7/1a24c7a60a7ccfd31bed212b59765cf5.jpg",
     type: " Relevant  shakes indian ratings 4+",
     ratings: "4.5 "
 
@@ -252,7 +252,7 @@ const foodData = [
     name: "Strawberry shakes",
     price: 45,
     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
-    image: "server/images/strawberry_shake.jpg",
+    image: "https://i.pinimg.com/236x/5f/37/b2/5f37b22954a0f3caa7b4b867c59c6fbf.jpg",
     type: " Relevant  shakes italian",
     ratings: "3.0"
 
@@ -262,7 +262,7 @@ const foodData = [
     name: "Hot Coffee",
     price: 50,
     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
-    image: "server/images/hot_coffee.jpg",
+    image: "https://i.pinimg.com/236x/f8/4a/70/f84a70f0469e904820773d304c4374f8.jpg",
     type: " Relevant  coffee indian",
     ratings: "3.0"
 
@@ -272,7 +272,7 @@ const foodData = [
     name: "cappuccino coffee",
     price: 100,
     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
-    image: "server/images/cappuccino.jpg",
+    image: "https://i.pinimg.com/236x/6a/86/c3/6a86c387495a30851e5843a582c7b6f2.jpg",
     type: " Relevant  coffee american ratings 4+",
     ratings: "4.0 "
 
@@ -282,7 +282,7 @@ const foodData = [
     name: "Coffee lette",
     price: 70,
     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
-    image: "server/images/coffee_lette.jpg",
+    image: "https://i.pinimg.com/236x/f8/4a/70/f84a70f0469e904820773d304c4374f8.jpg",
     type: " Relevant  coffee pakistani",
     ratings: "3.0"
 
@@ -292,7 +292,7 @@ const foodData = [
     name: "Expresso Coffee",
     price: 50,
     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
-    image: "server/images/expresso_coffee.jpg",
+    image: "https://i.pinimg.com/236x/f8/4a/70/f84a70f0469e904820773d304c4374f8.jpg",
     type: " Relevant coffee indian offers ratings 4+",
     ratings: "4.0"
 
@@ -302,7 +302,7 @@ const foodData = [
     name: "Chocolate Coffee",
     price: 50,
     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
-    image: "server/images/chocolate_coffee.jpg",
+    image: "https://i.pinimg.com/236x/f8/4a/70/f84a70f0469e904820773d304c4374f8.jpg",
     type: " Relevant  coffee chinese",
     ratings: "3.0"
 
@@ -312,7 +312,7 @@ const foodData = [
     name: "Cold Coffee",
     price: 50,
     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
-    image: "server/images/cold_coffee.jpg",
+    image: "https://i.pinimg.com/236x/d5/51/da/d551daf3f3062efab638eda193a43201.jpg",
     type: " Relevant  coffee chinese ratings 4+",
     ratings: "4.5"
 
@@ -322,7 +322,7 @@ const foodData = [
     name: "Chinese Noodles",
     price: 60,
     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
-    image: "server/images/chinese_noodles.jpg",
+    image: "https://i.pinimg.com/236x/c5/8f/d1/c58fd12b65ef692f88fc641a42eabc6c.jpg",
     type: " Relevant  coffee chinese ratings 4+",
     ratings: "4.0"
 
@@ -332,7 +332,7 @@ const foodData = [
     name: " Noodles Manchurian",
     price: 60,
     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
-    image: "server/images/Manchurian_noodles.jpg",
+    image: "https://i.pinimg.com/236x/6d/d3/a8/6dd3a8dbd30d8a1946908b0dac109fc3.jpg",
     type: " Relevant  noodles veg chinese",
     ratings: "3.0"
 
@@ -342,7 +342,7 @@ const foodData = [
     name: "Hakka  Noodles",
     price: 60,
     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
-    image: "server/images/haka_noodles.jpg",
+    image: "https://i.pinimg.com/236x/ac/02/ba/ac02baefd8296ed62d9b92db5be0ac3f.jpg",
     type: " Relevant  noodles veg korean",
     ratings: "3.0"
 
@@ -352,7 +352,7 @@ const foodData = [
     name: "Chicken Soup Noodle",
     price: 120,
     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
-    image: "server/images/chicken_soup_noodles.jpg",
+    image: "https://i.pinimg.com/474x/3c/18/05/3c180580028d6575a434c754c9a8812a.jpg",
     type: " Relevant  noodles meat korean",
     ratings: "3.5"
 
@@ -363,7 +363,7 @@ const foodData = [
     name: "Masala Noodle",
     price: 60,
     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
-    image: "server/images/masala_noodles.jpg",
+    image: "https://i.pinimg.com/236x/7e/c1/e2/7ec1e242c20101e7411590416b1cd73f.jpg",
     type: " Relevant  noodles veg indian",
     ratings: "3.7"
 
@@ -373,7 +373,7 @@ const foodData = [
     name: "Fried Momos",
     price: 60,
     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
-    image: "server/images/fried_momos.jpg",
+    image: "https://i.pinimg.com/236x/20/01/2e/20012e13d9777702a111ff3f9adf24d3.jpg",
     type: " Relevant   momos veg chinese",
     ratings: "3.8"
 
@@ -383,7 +383,7 @@ const foodData = [
     name: "steam Momos",
     price: 40,
     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
-    image: "server/images/team_momos.jpg",
+    image: "https://i.pinimg.com/236x/8a/a7/e1/8aa7e1031ee43685b9a7d8de1568c583.jpg",
     type: " Relevant   momos veg chinese ratings 4+",
     ratings: "4.2 "
 
@@ -393,7 +393,7 @@ const foodData = [
     name: "Paneer Momos",
     price: 80,
     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
-    image: "server/images/paneer_momos.jpg",
+    image: "https://i.pinimg.com/236x/73/d2/fe/73d2fed4697d267c6584bcecbf41a326.jpg",
     type: " Relevant momos veg chinese",
     ratings: "3.6"
 
@@ -403,7 +403,7 @@ const foodData = [
     name: "Chicken Momos",
     price: 100,
     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
-    image: "server/images/chicken_momos.jpg",
+    image: "https://i.pinimg.com/236x/b9/b1/e1/b9b1e1c5a7ca350858719d0caed61187.jpg",
     type: " Relevant   momos meat indian ratings 4+",
     ratings: "4.8 "
 
@@ -413,7 +413,7 @@ const foodData = [
     name: "Aaloo Paratha",
     price: 50,
     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
-    image: "server/images/aalo_paratha.jpg",
+    image: "https://i.pinimg.com/474x/f0/31/3a/f0313a801ff2bcb92ac550ed107144e5.jpg",
     type: " Relevant   parathas veg indian",
     ratings: "4.0"
 
@@ -423,7 +423,7 @@ const foodData = [
     name: "Paneer Paratha",
     price: 80,
     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
-    image: "server/images/paneer_paratha.jpg",
+    image: "https://i.pinimg.com/236x/0b/dc/46/0bdc46dc718c27683c1dbe6bfa7d50d1.jpg",
     type: " Relevant parathas veg indian",
     ratings: "4.3"
 
@@ -435,7 +435,7 @@ const foodData = [
     name: "Aaloo piyaz Paratha",
     price: 60,
     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
-    image: "server/images/aalo_piyaz_paratha.jpg",
+    image: "https://i.pinimg.com/236x/59/cb/67/59cb674867d3b3900085f558008faeb3.jpg",
     type: " Relevant   parathas veg indian",
     ratings: "3.8"
 
@@ -446,7 +446,7 @@ const foodData = [
     name: "Mixed Paratha",
     price: 100,
     text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptatum.",
-    image: "server/images/mixed_paratha.jpg",
+    image: "https://i.pinimg.com/236x/77/3b/f2/773bf2a828d5308fde6ec71f2df3d4e8.jpg",
     type: " Relevant   parathas veg indian",
     ratings: "4.0"
 
