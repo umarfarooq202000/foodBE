@@ -10,6 +10,7 @@ const port = 9000;
 app.use(cors({
   origin: "*"
 }));
+
 app.use(bodyParser.json());
 
 
@@ -473,8 +474,32 @@ const parathas_list = foodData.filter(food => food.type.includes('parathas'))
 
 
 // Define a route to handle API request
+// app.get('/fooddata', (req, res) => {
+//   res.json(foodData);
+// });
+
 app.get('/fooddata', (req, res) => {
-  res.json(foodData);
+  const page = parseInt(req.query.page) || 1;
+  const limit = parseInt(req.query.limit) || 10;
+  const startIndex = (page - 1) * limit;
+  const endIndex = page * limit;
+
+  const results = {};
+  
+  if (endIndex < foodData.length) {
+    results.next = {
+      page: page + 1,
+      limit: limit
+    };
+  }
+  if (startIndex > 0) {
+    results.previous = {
+      page: page - 1,
+      limit: limit
+    };
+  }
+  results.results = foodData.slice(startIndex, endIndex);
+  res.json(results);
 });
 
 app.get('/pizza', (req, res) => {
